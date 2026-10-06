@@ -1,0 +1,22 @@
+{
+  "name": "react-namaste",
+  "version": "1.0.0",
+  "description": "Namaste react",
+  "homepage": "https://github.com/Nagu07/react-namaste#readme",
+  "bugs": {
+    "url": "https://github.com/Nagu07/react-namaste/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagu07/react-namaste.git"
+  },
+  "license": "ISC",
+  "author": "Nagarajan Padmanaban",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
